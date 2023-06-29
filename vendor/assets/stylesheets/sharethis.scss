@@ -1,0 +1,50 @@
+.sharethis .share-icon {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  display: inline-block;
+  height: 18px;
+  width: 18px;
+}
+
+
+.sharethis .share-twitter {
+  background-image: asset-url('twitter.svg');
+}
+
+.sharethis .share-facebook {
+  background-image: asset-url('facebook.svg');
+}
+
+.sharethis .share-google_bookmark {
+  background-image: asset-url('google_bookmark.svg');
+}
+
+.sharethis .share-linkedin {
+  background-image: asset-url('linkedin.svg');
+}
+
+.sharethis .share-pinterest {
+  background-image: asset-url('pinterest.svg');
+}
+
+.sharethis .share-vkontakte {
+  background-image: asset-url('vkontakte.svg');
+}
+
+.sharethis .share-email {
+  background-image: asset-url('email.svg');
+}
+
+.sharethis .share-reddit {
+  background-image: asset-url('reddit.svg');
+}
+
+.sharethis .share-telegram {
+  background-image: asset-url('telegram.svg');
+}
+
+.sharethis .share-whatsapp_app,
+.sharethis .share-whatsapp_web {
+  background-image: asset-url('whatsapp.svg');
+}

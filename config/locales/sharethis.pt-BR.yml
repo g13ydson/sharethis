@@ -1,0 +1,14 @@
+'pt-BR':
+  sharethis:
+    share_to: Compartilhar via %{name}
+    twitter: Twitter
+    facebook: Facebook
+    google_bookmark: Google Bookmark
+    pinterest: Pinterest
+    email: Email
+    linkedin: Linkedin
+    vkontakte: Vkontakte
+    reddit: Reddit
+    telegram: Telegram
+    whatsapp_app: WhatsApp
+    whatsapp_web: WhatsApp
